@@ -21,13 +21,21 @@ Currently working as a **freelancer on Fiverr**, delivering production-ready sol
 
 ---
 
-## 🔗 Connect With Me
+## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://twitter.com/dilsha_sachith">Twitter</a> •
-  <a href="https://www.linkedin.com/in/dilsha-weerasinghe/">LinkedIn</a> •
-  <a href="https://fb.com/dilsha.sachith.5">Facebook</a> •
-  <a href="https://www.instagram.com/dilsha_sachith">Instagram</a>
+<p align="center">
+  <a href="https://twitter.com/dilsha_sachith" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/dilsha-weerasinghe/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" />
+  </a>
+  <a href="https://fb.com/dilsha.sachith.5" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" width="40" />
+  </a>
+  <a href="https://www.instagram.com/dilsha_sachith" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" width="40" />
+  </a>
 </p>
 
 ---
@@ -35,7 +43,7 @@ Currently working as a **freelancer on Fiverr**, delivering production-ready sol
 ## 🧰 Tech Stack
 
 ### 🌐 Frontend
-<p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
@@ -46,7 +54,7 @@ Currently working as a **freelancer on Fiverr**, delivering production-ready sol
 </p>
 
 ### 🛠 Backend
-<p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
@@ -58,7 +66,7 @@ Currently working as a **freelancer on Fiverr**, delivering production-ready sol
 </p>
 
 ### 🗄 Databases
-<p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" />
@@ -66,7 +74,7 @@ Currently working as a **freelancer on Fiverr**, delivering production-ready sol
 </p>
 
 ### ☁️ DevOps & Cloud
-<p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
@@ -86,7 +94,7 @@ Currently working as a **freelancer on Fiverr**, delivering production-ready sol
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dilsha-weerasinghe&show_icons=true&theme=github_dark&hide_border=true" />
@@ -104,8 +112,8 @@ Currently working as a **freelancer on Fiverr**, delivering production-ready sol
 
 ## 🚀 Developer Philosophy
 
-> *Write code that scales, designs that last, and systems that perform.*
+> *Design for humans. Build for scale. Ship with confidence.*
 
 ---
 
-⭐ Follow for future projects and collaborations.
+⭐ Follow or connect for collaborations and freelance work.
