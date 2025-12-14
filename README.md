@@ -11,13 +11,13 @@
 
 ## 👨‍💻 About Me
 
-I am a **Full-Stack Web Developer from Sri Lanka**, focused on building reliable, scalable, and visually refined web applications.  
+I am a **Full-Stack Web Developer from Sri Lanka**, focused on building scalable, secure, and user-centric applications.  
 Currently working as a **freelancer on Fiverr**, delivering production-ready solutions for global clients.
 
-- 🔭 Active in **freelance and contract-based projects**
-- 🌱 Advancing in **Full-Stack, DevOps, and Cloud Architecture**
-- ⚙️ Strong interest in **system design and performance**
-- 🤝 Open to **collaborations and long-term engagements**
+- 🔭 Working on **freelance & SaaS-style projects**
+- 🌱 Learning **advanced Full-Stack & Cloud Architecture**
+- ⚙️ Interested in **DevOps, performance, and system design**
+- 🤝 Open to **collaborations and long-term projects**
 
 ---
 
@@ -34,27 +34,54 @@ Currently working as a **freelancer on Fiverr**, delivering production-ready sol
 
 ## 🧰 Tech Stack
 
-### Frontend
-`HTML` `CSS` `JavaScript` `React` `Angular` `React Native` `Bootstrap`
+### 🌐 Frontend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" />
+</p>
 
-### Backend
-`Node.js` `Express` `Python` `Django` `Flask` `PHP` `Java` `.NET`
+### 🛠 Backend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" />
+</p>
 
-### Databases
-`MySQL` `MongoDB` `MSSQL` `Firebase`
+### 🗄 Databases
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" />
+</p>
 
-### DevOps & Cloud
-`Docker` `Kubernetes` `AWS` `GCP` `Heroku` `Jenkins` `Linux`
-
-### Design & Tools
-`Figma` `Git` `GitHub` `CI/CD`
+### ☁️ DevOps & Cloud
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
+</p>
 
 ---
 
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dilsha-weerasinghe&theme=onedark&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dilsha-weerasinghe&theme=onedark&margin-w=15" />
 </p>
 
 ---
@@ -75,12 +102,10 @@ Currently working as a **freelancer on Fiverr**, delivering production-ready sol
 
 ---
 
-## 🚀 Developer Mindset
+## 🚀 Developer Philosophy
 
-> *Build for clarity, scale for growth, and ship with confidence.*
-
-I value **clean code, thoughtful architecture, and long-term maintainability** over quick fixes.
+> *Write code that scales, designs that last, and systems that perform.*
 
 ---
 
-⭐ If you find my work useful, feel free to follow or collaborate.
+⭐ Follow for future projects and collaborations.
